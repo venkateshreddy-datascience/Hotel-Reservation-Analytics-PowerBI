@@ -1,0 +1,26 @@
+{
+  "name": "StayPoint",
+  "dataColors": ["#1F7A8C","#14213D","#F4A261","#2A9D8F","#E76F51","#8D99AE","#BFDBF7","#6C757D"],
+  "background": "#FFFFFF",
+  "foreground": "#14213D",
+  "tableAccent": "#1F7A8C",
+  "textClasses": {
+    "title":   {"fontFace": "Segoe UI Semibold", "fontSize": 18, "color": "#14213D"},
+    "header":  {"fontFace": "Segoe UI Semibold", "fontSize": 14, "color": "#14213D"},
+    "label":   {"fontFace": "Segoe UI", "fontSize": 13, "color": "#4A5568"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 36, "color": "#14213D"}
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#E5E7EB"}}, "radius": 8}],
+        "title": [{"show": true, "fontSize": 18, "fontFamily": "Segoe UI Semibold", "fontColor": {"solid": {"color": "#14213D"}}, "alignment": "left"}],
+        "categoryAxis": [{"fontSize": 13}],
+        "valueAxis": [{"fontSize": 13}],
+        "legend": [{"fontSize": 13}],
+        "labels": [{"fontSize": 13}]
+      }
+    }
+  }
+}
