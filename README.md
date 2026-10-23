@@ -95,4 +95,4 @@ Power BI Desktop, Power Query, DAX
 ## Author
 
 **Venkatesh Reddy Munagala**
-[LinkedIn](https://www.linkedin.com/in/venkateshreddy-munagala-77b285425) | [GitHub](https://github.com/venkateshreddy-datascience)
+[LinkedIn](https://www.linkedin.com/in/venkatesh-reddy-munagala-77b285425) | [GitHub](https://github.com/venkateshreddy-datascience)
