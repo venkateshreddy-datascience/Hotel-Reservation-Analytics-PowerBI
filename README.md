@@ -79,7 +79,6 @@ Seven tables loaded into Power BI Desktop: `bookings` (2,800 rows), `stays` (3,2
 Hotel-Reservation-Analytics-PowerBI/
 ├── powerbi/        # .pbix file and StayPoint theme (JSON)
 ├── report/         # Exported PDF of the full report
-├── presentation/   # Project presentation (PPTX)
 ├── docs/           # Project brief and documentation
 └── assets/         # Dashboard, data model and Power Query screenshots
 ```
